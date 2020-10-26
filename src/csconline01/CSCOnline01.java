@@ -16,18 +16,16 @@ public class CSCOnline01 {
      */
     public static void main(String[] args) {
         
-        String nombre="Cristina"
+        String nombre="Cristina";
                
-        String apellido1="Cañete" 
+        String apellido1="Cañete"; 
              
-        String apellido2="Salcedo"
+        String apellido2="Salcedo";
                 
         System.out.println(nombre+" "+apellido1+" "+apellido2+" "); 
         
-       int variable
-               
-       variable=100        
-       
+       int variable=100;
+        
        System.out.println(variable);
          
     }
