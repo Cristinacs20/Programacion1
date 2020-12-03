@@ -7,7 +7,7 @@ package csconline01;
 
 /**
  *
- * @author usuario
+ * @author Cristina Cañete Salcedo
  */
 public class CSCOnline01 {
 
