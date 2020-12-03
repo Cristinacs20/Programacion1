@@ -16,18 +16,10 @@ public class CSCOnline01 {
      */
     public static void main(String[] args) {
         
-        String nombre="Cristina";
-               
-        String apellido1="Cañete"; 
-             
-        String apellido2="Salcedo";
-                
-        System.out.println(nombre+" "+apellido1+" "+apellido2+" "); 
-        
-       int variable=100;
-        
-       System.out.println(variable);
-         
+        System.out.println("Cristina Cañete Salcedo");
+        System.out.println("Crearemos una variable de tipo entera que contenga el numero 100 usando int para introducir la variavle y num para que nos guarde el numero 100 usaremos INT para introducir la variable y NUM para indicar que es un número entero, igualaremos esa variable a 10  y lo obtendremos ");
+        int num = 100;
+        System.out.println(num);
     }
-    
+
 }
